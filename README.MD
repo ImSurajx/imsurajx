@@ -119,9 +119,7 @@ I’m always open to **collaboration, networking, or mentoring opportunities**. 
   </a>
 </p>
 
-<p align="center">
-**Let's connect, collaborate, and build meaningful projects together!** 🚀
-</p>
+Let's **connect, collaborate, and build meaningful projects together!** 🚀
 
 ---
 
