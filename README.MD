@@ -104,20 +104,30 @@ I am currently **deepening my Full-Stack development skills** by learning modern
 
 I’m always open to **collaboration, networking, or mentoring opportunities**. Feel free to reach out to discuss projects, ideas, or just to say hi!  
 
-<p align="justify">
-  <a href="https://github.com/imsurjx" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/itsurajx/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/ItSurajxD" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:imsurajx@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/imsurjx" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/itsurajx/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/ItSurajxD" target="_blank">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:imsurajx@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 Let's **connect, collaborate, and build meaningful projects together!** 🚀
 
