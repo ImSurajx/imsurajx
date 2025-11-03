@@ -122,7 +122,7 @@ I’m always open to **collaboration, networking, or mentoring opportunities**. 
       </a>
     </td>
     <td align="center">
-      <a href="mailto:imsurajx@gmail.com" target="_blank">
+      <a href="mailto:surajxcode@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
     </td>
